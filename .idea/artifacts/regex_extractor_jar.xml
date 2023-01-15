@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="regex-extractor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/regex_extractor_jar</output-path>
+    <root id="archive" name="regex-extractor.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
