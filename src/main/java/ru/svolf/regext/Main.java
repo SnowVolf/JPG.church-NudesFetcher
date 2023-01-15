@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("JPG.church nudes fetcher");
         System.out.println("This tool parses all strings in web page that matches regular expression");
-        System.out.println("For more info check: https://github.com/SnowVolf/regex-extractor");
+        System.out.println("For more info check: https://github.com/SnowVolf/JPG.church-NudesFetcher");
         System.out.println("Please enter full path to source file (e.g. C:\\User\\test.html):");
         try {
             BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
